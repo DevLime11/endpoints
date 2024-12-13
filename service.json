@@ -1,0 +1,8 @@
+{
+  "endpoints": {
+    "payment": {
+      "APIV2": "https://impunionpay.com/payment/api/APIV2.php",
+      "APIV3": "https://impunionpay.com/payment/api/APIV3.php"
+    }
+  }
+}
