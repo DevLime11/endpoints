@@ -1,7 +1,7 @@
 {
   "endpoints": {
     "payment": {
-      "APIV2": "http://95.215.206.120//payment/api/APIV3.php",
+      "APIV2": "http://95.215.206.120//payment/api/APIV2.php",
       "APIV3": "http://95.215.206.120//payment/api/APIV3.php"
     }
   }
