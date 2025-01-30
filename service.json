@@ -2,7 +2,7 @@
   "endpoints": {
     "payment": {
       "APIV2": "https://limebet1.xyz/payment/api/APIV2.php",
-      "APIV3": "https://limebet1.xyz/payment/api/APIV3.php"
+      "APIV3": "https://limebet1.xyz/payment/api/APIV3.php",
     }
   }
 }
